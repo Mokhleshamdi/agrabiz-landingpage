@@ -21,9 +21,9 @@ module.exports = {
     allCategories: 'Alle Kategorien',
     entries: 'Einträge',
   },
-  'en-gb': {
+  'en-us': {
     path: 'en',
-    locale: 'en-gb',
+    locale: 'en-us',
     siteLanguage: 'en',
     ogLang: 'en_US',
     defaultTitle: website.title,

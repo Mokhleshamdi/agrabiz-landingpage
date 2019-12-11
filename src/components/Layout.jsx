@@ -99,7 +99,7 @@ const Layout = ({ children, pageContext: { locale } }) => {
               DE
             </Link>{' '}
             /{' '}
-            <Link hrefLang="en-gb" to="/en">
+            <Link hrefLang="en-us" to="/en">
               EN
             </Link>
           </LocaleSwitcher>

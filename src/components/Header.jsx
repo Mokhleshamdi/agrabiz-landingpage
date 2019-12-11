@@ -17,7 +17,7 @@ const StyledHeader = styled.nav`
 const Header = ({ invert }) => (
   <StyledHeader invert={invert}>
     <LocalizedLink to="/" aria-label="Back to Home">
-      Frontend Developer
+      Agrabiz
     </LocalizedLink>
   </StyledHeader>
 )
