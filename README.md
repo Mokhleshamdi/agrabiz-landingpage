@@ -4,8 +4,8 @@ npm i
 
 # Step 2 :
 
-npm run develop
+npm run build
 
 # Step 3 :
 
-npm run build
+npm run develop
